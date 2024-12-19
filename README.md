@@ -1,5 +1,5 @@
 # Titanic-Project
-Titanic data analysis
+
 ![AI Student](https://miro.medium.com/v2/resize:fit:1400/0*vU2JHmycmbuO9O1J.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
